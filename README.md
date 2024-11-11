@@ -189,7 +189,7 @@ This linear regression model, after applying transformations and thorough evalua
 
 The scatter plot between predicted values and residuals is an important tool for testing the assumptions of regression models, specifically homoscedasticity and no pattern. in the distribution of the residuals.
 
-One of the key assumptions of linear regression is that the variance of the residuals should be consistent across all values of the independent variable. As the plot provided, the residuals are distributed around the horizontal line at 0 and there is no tendency to increase or decrease variance at higher or lower predicted values, which is a good indication of the variance. false uniformity.
+One of the key assumptions of linear regression is that the variance of the residuals should be consistent across all values of the independent variable. As the plot provided, the residuals are distributed around the horizontal line at 0 and there is no tendency to increase or decrease variance at higher or lower predicted values, which is a good indication of the variance. 
 
 The plot shown shows no correlation between the predicted values and the residuals, and shows a uniform distribution of the residuals around zero with no obvious pattern. This indicates that your regression model has achieved the requirement of no correlation between the predicted values and the residuals, and also that the variance of the residuals is preserved at all levels of predicted values. This increases the confidence of the regression model, allowing the prediction to be considered reliable and not influenced by unmodeled latent factors.
 
